@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">重邮食光</string>
+    <string name="title_activity_stu_main">MainActivity</string>
+    <string name="title_home">美食</string>
+    <string name="title_dashboard">订单</string>
+    <string name="title_notifications">我的</string>
+</resources>
